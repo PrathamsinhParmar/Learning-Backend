@@ -1,0 +1,22 @@
+*{
+  font-family: Helvetica, sans-serif;
+}
+
+#container{
+  height: 100%;
+  width: 100%;
+  padding: 10;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  background: white;
+}
+
+#jokeContainer{
+  padding: 2px 10px;
+  height: auto;
+  width: 30%;
+  background: royalblue;
+  /* margin-bottom: 10px; */
+  border-radius: 10px;
+}

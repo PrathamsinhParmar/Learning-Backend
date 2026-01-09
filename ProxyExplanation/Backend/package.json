@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend For Jokes Application",
+  "main": "server.js",
+  "type" : "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Jokes",
+    "Node",
+    "React"
+  ],
+  "author": "Prathamsinh Parmar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  }
+}
