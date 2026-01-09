@@ -1,0 +1,5 @@
+#Environmental Vars
+.env
+.env.local
+.env.development
+.env.production
