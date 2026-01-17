@@ -1,3 +1,5 @@
+In this folder, I am learning about Data Modelling. So I can understand the basics of Data Scheme Modelling.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
