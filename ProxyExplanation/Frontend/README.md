@@ -1,3 +1,5 @@
+In this folder, I am learning about Proxy Server, How the Backend port Accessible to Frontend using proxy server.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
